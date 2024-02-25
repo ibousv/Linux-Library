@@ -1,2 +1,2 @@
-# The Linux Librairy
+# The Linux Library
 
